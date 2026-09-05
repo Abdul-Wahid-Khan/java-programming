@@ -3,7 +3,7 @@ package Array;
 
 import java.util.Scanner;
 
-public class Array01 {
+public class Array_input_display {
 
 	// 'static' allows all static methods (main(), TakeInput(), Display()) to use
 	// the same scanner

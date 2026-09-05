@@ -3,7 +3,7 @@ package Array;
 
 import java.util.Scanner;
 
-public class Array03 {
+public class Linear_Search {
 
     static Scanner scn = new Scanner(System.in);
 

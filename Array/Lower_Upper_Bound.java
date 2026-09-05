@@ -1,7 +1,7 @@
 // This program demonstrates how to find the Lower Bound and Upper Bound of an element in a sorted array using Binary Search
 package Array;
 
-public class Array08 {
+public class Lower_Upper_Bound {
 
 	public static void main(String[] args) {
 

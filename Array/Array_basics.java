@@ -1,6 +1,6 @@
 package Array;
 
-public class Array00 {
+public class Array_basics {
 
 	public static void main(String[] args) {
 

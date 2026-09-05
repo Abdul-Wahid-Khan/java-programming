@@ -3,7 +3,7 @@ package Array;
 
 import java.util.Scanner;
 
-public class Array02 {
+public class Maximum_Element {
 
 	// static allows all static methods to use the same scanner
     static Scanner scn = new Scanner(System.in);

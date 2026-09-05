@@ -3,7 +3,7 @@ package Array;
 
 import java.util.Scanner;
 
-public class Array06 {
+public class Selection_Sort {
 
 	static Scanner scn = new Scanner(System.in);
 
