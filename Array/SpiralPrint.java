@@ -1,7 +1,7 @@
 // This program is used to print a 2D matrix in clockwise spiral order.
 package Array;
 
-public class Array10_SpiralPrint {
+public class SpiralPrint {
 
 	public static void main(String[] args) {
 		
