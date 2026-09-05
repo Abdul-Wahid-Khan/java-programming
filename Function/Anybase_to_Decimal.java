@@ -3,7 +3,7 @@ package Function;
 
 import java.util.Scanner;
 
-public class Function01 {
+public class Anybase_to_Decimal {
 
 	public static void main(String[] args) {
 		

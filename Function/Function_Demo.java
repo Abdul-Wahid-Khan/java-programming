@@ -1,7 +1,7 @@
 // This program demonstrates several important Java concepts: functions, parameters, return values, variable scope, global variables, block scope, and pass by value.
 package Function;
 
-public class Function00 {
+public class Function_Demo {
 
 	public static int val = 20; // 'val' is a global (class) variable because it is declared inside the class but outside all methods. It can be accessed by every method in the class.
 	
