@@ -1,6 +1,6 @@
 package Data_Types;
 
-public class DataType00 {
+public class Data_Types_Type_Casting {
 
 	public static void main(String[] args) {
 		

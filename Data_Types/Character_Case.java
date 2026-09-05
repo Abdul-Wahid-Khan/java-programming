@@ -2,7 +2,7 @@ package Data_Types;
 
 import java.util.Scanner;
 
-public class Datatype02 {
+public class Character_Case {
 
 	public static void main(String[] args) {
 		
